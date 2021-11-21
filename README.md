@@ -6,4 +6,4 @@
 
 Veja em produção [aqui](https://fogocomjavascript.netlify.app/).
 
-<img src="screen.png">
+<img src="https://github.com/guitavano/fogoComJavascript/blob/main/screen.PNG">
